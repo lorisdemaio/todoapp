@@ -139,7 +139,7 @@
                             echo "</div>";
                         }
                     }
-                    else echo "<span style='color: red;'>Nessun task disponibile.</span>";
+                    else echo "<span style='color: red;'>Nessuna task disponibile.</span>";
                 ?>
             </div>
 
